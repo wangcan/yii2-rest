@@ -1,6 +1,6 @@
 {
-    "name": "zhuravljov/yii2-rest",
-    "description": "Yii2 REST Client",
+    "name": "wangcan/yii2-restclient",
+    "description": "fork from zhuravljov/yii2-rest, secondary development to apply my requirement.",
     "type": "yii2-extension",
     "keywords": ["yii2", "rest", "module"],
     "license": "BSD-3-Clause",
